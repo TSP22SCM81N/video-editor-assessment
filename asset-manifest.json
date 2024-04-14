@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//video-editor-assessment/static/css/main.43359043.css",
-    "main.js": "//video-editor-assessment/static/js/main.09a050dc.js",
-    "index.html": "//video-editor-assessment/index.html",
-    "main.43359043.css.map": "//video-editor-assessment/static/css/main.43359043.css.map",
-    "main.09a050dc.js.map": "//video-editor-assessment/static/js/main.09a050dc.js.map"
+    "main.css": "/video-editor-assessment/static/css/main.43359043.css",
+    "main.js": "/video-editor-assessment/static/js/main.09a050dc.js",
+    "index.html": "/video-editor-assessment/index.html",
+    "main.43359043.css.map": "/video-editor-assessment/static/css/main.43359043.css.map",
+    "main.09a050dc.js.map": "/video-editor-assessment/static/js/main.09a050dc.js.map"
   },
   "entrypoints": [
     "static/css/main.43359043.css",
